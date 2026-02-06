@@ -1,0 +1,19 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (Never leak your API Keys!)
+.env
+.venv
+env/
+venv/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Project specific junk
+data/raw/
+tmp/
+*.pdf
